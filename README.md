@@ -1,3 +1,5 @@
-# Attention!
+# Repository of symbolic music data
 
-With the release of the 1.0 gem, `Ed.` has moved to https://github.com/minicomp/ed/
+### _El corrido mexicano_
+
+Corpus of MEI and MusicXML files for computer-assisted analysis, from _El corrido mexicano_ (1954) by Vicente T. Mendoza.

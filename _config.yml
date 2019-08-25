@@ -1,22 +1,22 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+title:               El corrido mexicano
+tagline:             Encoded text and music for analysis, display, and playback
+description:         A demonstration repository of corridos encoded in MEI and TEI that can be searched, displayed and played in the browser.
+url:                 #
+baseurl:             '/corridos'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Mark Saccomano
+  url:               https://mss2221.github.io/saccomano/
+  email:             mark.saccomano@columbia.edu
 
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: 
+color-scheme:
 
 permalink: pretty
 permalink: /:title/
@@ -48,5 +48,3 @@ exclude:
 
 # Theme
 theme: "ed."
-
-
