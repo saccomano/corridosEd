@@ -5,7 +5,7 @@ title: About
 
 This test site is a demonstration of viable workflows to transform printed music to digial formats for computer assisted analyais, while providing a means for browsing the scores visually and aurally.
 
-Music and text taken from _El corrido mexicano_, compiled and edited y Vicente T. Mendoza (1954).
+Music and text taken from _El corrido mexicano_, compiled and edited by Vicente T. Mendoza (1954).
 
 Music originally entered by hand into Sibelius, exported as MusicXML, then transformed to MEI so that it can be viewable and playable in the browser with Verovio, a music notation engraving library that outputs svg of the score as well as a MIDI stream.
 
