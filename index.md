@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ed."
+title: "Corridos"
 ---
 
 # _El corrido mexicano_
