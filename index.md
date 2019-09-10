@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Corridos"
+title: "Ed."
 ---
 
 # _El corrido mexicano_
@@ -13,9 +13,11 @@ Corpus of MEI and MusicXML files for computer-assisted analysis, from _El corrid
 Encoding and site design: [Mark Saccomano](https://mss2221.github.io/saccomano/).
 
 
-<p>A demonstration of encoded repository materials that can be searched, displayed, and played in the browser.
-<p>Scores encoded as MEI, text as TEI, and using Verovio web tools for playback.
-<p>Created using the jekyll template Ed. for digital editions.
+A demonstration of encoded repository materials that can be searched, displayed, and played in the browser.
+
+Scores encoded as MEI, text as TEI, and using Verovio web tools for playback.
+
+Created using the jekyll template Ed. for digital editions.
 
 
 

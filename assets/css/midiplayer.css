@@ -1,8 +1,8 @@
-#midiPlayer_div{width:700px;height:36px;background:#007bff;opacity:0.7;}
+#midiPlayer_div{width:700px;height:36px;background: #8f5536;opacity:0.8;}
 #midiPlayer_bar{height:12px;width:500px;background:#ccc;cursor:pointer;display:inline-block;}
 #midiPlayer_progress{margin:0;background:#555;width:0;height:100%;}
-#midiPlayer_playingTime{width:45px;margin:8px;font-size:16px;text-align:right;font-family:arial;display:inline-block;}
-#midiPlayer_totalTime{width:40px;text-align:right;margin:8px;font-size:16px;font-family:arial;display:inline-block;}
+#midiPlayer_playingTime{color:white;width:45px;margin:8px;font-size:16px;text-align:right;font-family:arial;display:inline-block;}
+#midiPlayer_totalTime{color:white;width:40px;text-align:right;margin:8px;font-size:16px;font-family:arial;display:inline-block;}
 #midiPlayer_div a.icon{margin:3px;cursor:pointer;background-color:#eee;border:2px solid #ccc;display:inline-block;position:relative;vertical-align:top;display: none; box-sizing:content-box!important;-webkit-box-sizing:content-box!important; -moz-box-sizing:content-box!important;}
 #midiPlayer_div a.icon:after,
 #midiPlayer_div a.icon:before{background:#eee;border:2px solid #ccc;content:'';position:absolute; box-sizing:content-box!important;-webkit-box-sizing:content-box!important; -moz-box-sizing:content-box!important;}
