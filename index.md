@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ed."
+title: "El corrido mexicano"
 ---
 
 # _El corrido mexicano_
