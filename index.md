@@ -5,7 +5,7 @@ title: "El corrido mexicano"
 
 # _El corrido mexicano_
 
-## Repository of symbolic music data
+## Repository of Symbolic Music Data
 
 Corpus of MEI and MusicXML files for computer-assisted analysis, from _El corrido mexicano_ (1954) by Vicente T. Mendoza.
 
@@ -24,7 +24,7 @@ Created using the jekyll template Ed. for digital editions.
 <hr>
 
 <div class="toc">
-  <h2>sample texts</h2>
+  <h2>Corridos</h2>
   <ul class="texts">
   {% for item in site.texts %}
 
