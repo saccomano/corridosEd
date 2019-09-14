@@ -39,7 +39,7 @@
                                     <note xml:id="note-0000000078646437" dur.ppq="128" dur="8" oct="4" pname="f" color="#000000" stem.dir="down" accid.ges="s" />
                                 </layer>
                             </staff>
-                            <tempo xml:id="tempo-0000001370257537" staff="1" startid="#note-0000001371066299" mm="100" mm.unit="4">M.M. = 100</tempo>
+                            <tempo xml:id="tempo-0000001370257537" staff="1" startid="#note-0000001371066299" mm="100" mm.unit="4"></tempo>
                         </measure>
                         <measure xml:id="measure-0000001873829894" n="1">
                             <staff xml:id="staff-0000001051804676" n="1">
