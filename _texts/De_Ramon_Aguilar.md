@@ -10,7 +10,7 @@ meifile: De_Ramon_Aquilar.mei
 
 
 
-El Treinta y uno de mayo\\
+El treinta y uno de mayo\\
 ¡qué desgracia sucedió!\\
 Que en el pueblo de Santiago\\
 Ramón Aguilar murió.
