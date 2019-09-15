@@ -3,7 +3,7 @@ layout: default
 title: "El corrido mexicano"
 ---
 
-# <b>_El corrido mexicano_</b>
+# _El corrido mexicano_
 
 ## Repository of Symbolic Music Data
 

@@ -2,7 +2,7 @@
 title: "Del peligro"
 editor: Mark Saccomano
 corrido: No. 19
-page: 41
+page: 18
 layout: poem
 meifile: 019_Del_peligro.mei
 ---
@@ -21,112 +21,112 @@ prenda sagrada y querida!\\
 No permitas que el extraño\\
 venga a quitarnos la vida.
 
-¡Qué linda es nuestra bandera!</l>\\
-Compañeros, a pelear,</l>\\
-ya el enemigo está cerca,</l>\\
-ya se oye el clarín sonar.</l>
+¡Qué linda es nuestra bandera!\\
+Compañeros, a pelear,\\
+ya el enemigo está cerca,\\
+ya se oye el clarín sonar.
 
-Verde, blanco y colorado</l>\\
-contra barras va jugando.</l>\\
-No te aplomes, compañero,</l>\\
-que les estamos ganado.</l>
+Verde, blanco y colorado\\
+contra barras va jugando.\\
+No te aplomes, compañero,\\
+que les estamos ganado.
 
-En su tierra, los hermanos</l>\\
-todos est;an pronunciados,</l>\\
-a ver qué suerte corremos,</l>\\
-vamos a tirar los dados.</l>
+En su tierra, los hermanos\\
+todos est;an pronunciados,\\
+a ver qué suerte corremos,\\
+vamos a tirar los dados.
 
-Si acaso creen que los indios</l>\\
-ya todos se han acabado,</l>\\
-sobran unos pellejitos</l>\\
-para entrarle al embolado.</l>
+Si acaso creen que los indios\\
+ya todos se han acabado,\\
+sobran unos pellejitos\\
+para entrarle al embolado.
 
-¡Madre mía Guadalupe,</l>\\
-Tú me has de favorecer,</l>\\
-para no rendir las armas</l>\\
-hasta morir o vencer!</l>
+¡Madre mía Guadalupe,\\
+Tú me has de favorecer,\\
+para no rendir las armas\\
+hasta morir o vencer!
 
-Si ellos son muy poderosos</l>\\
-en armas y municiones,</l>\\
-nosotros tenemos piedras</l>\\
-y muchisimos calzones.</l>
+Si ellos son muy poderosos\\
+en armas y municiones,\\
+nosotros tenemos piedras\\
+y muchisimos calzones.
 
-Si fuera una cosa justa</l>\\
-lo que ellos vienen peleando;</l>\\
-pero esto no puede ser,</l>\\
-porque nos esán robando.</l>
+Si fuera una cosa justa\\
+lo que ellos vienen peleando;\\
+pero esto no puede ser,\\
+porque nos esán robando.
 
-Ya la mitad del terreno</l>\\
-les vendió el traidor Santa Anna,</l>\\
-con lo que se ha hecho muy rica</l>\\
-la nación americana.</l>
+Ya la mitad del terreno\\
+les vendió el traidor Santa Anna,\\
+con lo que se ha hecho muy rica\\
+la nación americana.
 
-Qué ¿acaso no se conforman</l>\\
-con el oro de las minas?</l>\\
-Ustedes muy elegantes</l>\\
-y aquí nosotros en ruinas.</l>
+Qué ¿acaso no se conforman\\
+con el oro de las minas?\\
+Ustedes muy elegantes\\
+y aquí nosotros en ruinas.
 
-Todavía quieren perjuicios</l>\\
-buscarle a nuestra nación,</l>\\
-la verdad que si se meten</l>\\
-los hacemos chicharròn.</l>
+Todavía quieren perjuicios\\
+buscarle a nuestra nación,\\
+la verdad que si se meten\\
+los hacemos chicharròn.
 
-Confórmense con ser ricos</l>\\
-y tener muchos millones,</l>\\
-porque para gobernarnos</l>\\
-les faltan muchas razones.</l>
+Confórmense con ser ricos\\
+y tener muchos millones,\\
+porque para gobernarnos\\
+les faltan muchas razones.
 
-—Lo hemos de ver y no creer—,</l>\\
-les dijo Doroteo Arango,</l>\\
-cuando por primera vez</l>\\
-les mandó a chupar su mango.</l>
+—Lo hemos de ver y no creer—,\\
+les dijo Doroteo Arango,\\
+cuando por primera vez\\
+les mandó a chupar su mango.
 
-Ahora sí ya, compañeros,</l>\\
-¡muera la guerra intestina!</l>\\
-Bautizaremos un gringo,</l>\\
-ya búsquenle su madrina.</l>
+Ahora sí ya, compañeros,\\
+¡muera la guerra intestina!\\
+Bautizaremos un gringo,\\
+ya búsquenle su madrina.
 
-Pues nosotros, por la buena,</l>\\
-señores, los respetamos,</l>\\
-porque gocen de placeres,</l>\\
-mucha plata les botamos.</l>
+Pues nosotros, por la buena,\\
+señores, los respetamos,\\
+porque gocen de placeres,\\
+mucha plata les botamos.
 
-Si acaso se vanaglorian</l>\\
-que nos dan ilustración,</l>\\
-es como dijo el inditoÑ</l>\\
-—Arreglado a mi tostón.</l>
+Si acaso se vanaglorian\\
+que nos dan ilustración,\\
+es como dijo el inditoÑ\\
+—Arreglado a mi tostón.
 
-Búsquenle por otro lado,</l>\\
-ya no sean tan ambiciosos,</l>\\
-porque aquí no nos sobraron</l>\\
-más que reatas de los pozos.</l>
+Búsquenle por otro lado,\\
+ya no sean tan ambiciosos,\\
+porque aquí no nos sobraron\\
+más que reatas de los pozos.
 
-El petróleo se acabó,</l>\\
-se lo consumieron todo.</l>\\
-Caminen por lo parejo,</l>\\
-no se atasquen en el lodo.</l>
+El petróleo se acabó,\\
+se lo consumieron todo.\\
+Caminen por lo parejo,\\
+no se atasquen en el lodo.
 
-Todo el mundo ya lo sabe</l>\\
-que han sido muy malos jueces.</l>\\
-No le hagan al ruido de uñas,</l>\\
-ahí están los japoneses.</l>
+Todo el mundo ya lo sabe\\
+que han sido muy malos jueces.\\
+No le hagan al ruido de uñas,\\
+ahí están los japoneses.
 
-Esas Islas Filipinas</l>\\
-que también se adjudicaron,</l>\\
-eso, no vayan a creer</l>\\
-que sus dueños lo olvidaron.</l>
+Esas Islas Filipinas\\
+que también se adjudicaron,\\
+eso, no vayan a creer\\
+que sus dueños lo olvidaron.
 
-En fin, son muy poderosos,</l>\\
-pero el rico también muereñ</l>\\
-pues aquí se hace en la tierra</l>\\
-nada más lo que Dios quiere.</l>
+En fin, son muy poderosos,\\
+pero el rico también muereñ\\
+pues aquí se hace en la tierra\\
+nada más lo que Dios quiere.
 
-¡Viva Hidalgo! ¡Viva Juárez!,</l>\\
-les diré de despedida,</l>\\
-que supieron dar su sangre</l>\\
-por nuestra patria querida.</l>
+¡Viva Hidalgo! ¡Viva Juárez!,\\
+les diré de despedida,\\
+que supieron dar su sangre\\
+por nuestra patria querida.
 
-Si acaso muero en campaña,</l>\\
-échame tu bendición,</l>\\
-madre mía Guadalupana,</l>\\
-te llevo en el corazón.</l>\\
+Si acaso muero en campaña,\\
+échame tu bendición,\\
+madre mía Guadalupana,\\
+te llevo en el corazón.
