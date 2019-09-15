@@ -147,6 +147,6 @@ de asesinar a dos héroes\\
 padres de la Democracia.
 
 Aquí terminan los versos\\
-7, si han logrado gustar\\
+y, si han logrado gustar\\
 son compuestos por Lozano,\\
 un coplero popular.\\

@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This test site is a demonstration of viable workflows to transform printed music to digial formats for computer assisted analyais, while providing a means for browsing the scores visually and aurally.
+This test site is a demonstration of viable workflows to transform printed music to digial formats for computer assisted analyais, while providing a simple interface browsing the scores visually and aurally.
 
 Music and text taken from _El corrido mexicano_, compiled and edited by Vicente T. Mendoza (1954).
 

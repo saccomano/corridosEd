@@ -8,8 +8,6 @@ layout: poem
 meifile: 042_De_Ramon_Aquilar.mei
 ---
 
-
-
 El treinta y uno de mayo\\
 ¡qué desgracia sucedió!\\
 Que en el pueblo de Santiago\\
