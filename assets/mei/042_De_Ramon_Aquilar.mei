@@ -74,7 +74,7 @@
                             </staff>
                             <tempo xml:id="tempo-0000000766964158" staff="1" startid="#note-0000001928276614" mm="120" mm.unit="4"></tempo>
                         </measure>
-                        <scoreDef xml:id="scoredef-0000000199641807" meter.count="9" meter.unit="8" />
+                        <scoreDef xml:id="scoredef-0000000199641807" />
                         <measure xml:id="measure-0000000459914118" n="2">
                             <staff xml:id="staff-0000001931296399" n="1">
                                 <layer xml:id="layer-0000001072718672" n="1">
