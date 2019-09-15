@@ -261,9 +261,9 @@
                                     </note>
                                     <note xml:id="note-0000000385088550" dur="8" oct="4" pname="a" accid.ges="f" />
                                     <note xml:id="note-0000000236708540" dur="4" oct="4" pname="a" accid.ges="f" />
+                                    <rest xml:id="rest-0000000394237162" dur="4" />
                                     <!-- dummy note -->
                                     <note dur="4" visible="false"/>
-                                    <rest xml:id="rest-0000000394237162" dur="4" />
                                 </layer>
                             </staff>
                             <slur xml:id="slur-0000001357551462" startid="#note-0000001040947343" endid="#note-0000000236708540" curvedir="above" />
