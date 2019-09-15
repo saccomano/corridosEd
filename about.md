@@ -13,4 +13,4 @@ While the original scores were entered by hand, they are fairly clear and simple
 
 All material on this website is drawn directly from files in the repository and all file types are generated from a single transcription using Sibelius.
 
-This Jekyll template used to build this site, "Ed.", was specifically developed for use in minimal editions by [https://minicomp.github.io/ed/credits/](https://minicomp.github.io/ed/credits/)
+The Jekyll template used to build this site, "Ed.", was specifically developed for use in minimal editions by [https://minicomp.github.io/ed/credits/](https://minicomp.github.io/ed/credits/)
