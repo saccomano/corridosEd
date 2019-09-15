@@ -1,5 +1,4 @@
 ---
-#layout: poem
 title: "De Leonardo Márquez"
 editor: Mark Saccomano
 corrido: No. 7
