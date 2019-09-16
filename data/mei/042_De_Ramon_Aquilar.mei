@@ -237,7 +237,6 @@
                                     <note xml:id="note-0000000864888113" dots="1" dur.ppq="768" dur="2" oct="4" pname="d" color="#000000" stem.dir="up" />
                                 </layer>
                             </staff>
-                            <slur xml:id="slur-0000001211856221" startid="#note-0000001923179168" endid="#note-0000001923179168" color="#000000" />
                             <slur xml:id="slur-0000001134856670" startid="#note-0000001923179168" endid="#note-0000001233546866" color="#000000" />
                             <tie xml:id="tie-0000001310014815" startid="#note-0000000864888113" endid="#note-0000001233546866" />
                         </measure>
