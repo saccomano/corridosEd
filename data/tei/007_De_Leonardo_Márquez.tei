@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div1 type="corrido_number">
+  <head>7</head>
+<div2 type="corrido_text">
+  <head>De Leonardo Márquez</head>
+
+<lg type="stanza" n="1" rhyme="abab">
+  <l>Ya venimos, ya llegamos</l>
+  <l>todos los del Maracote,</l>
+  <l>todos los que destapamos</l>
+  <l>del miedo del Marquesote.<note n=1 place="foot"><ns>*</ns></l>
+</lg>
+
+<lg type="stanza" n="2" rhyme="abab">
+  <l>Vengo a que me des razones</l>
+  <l>de ese invito general,</l>
+  <l>del que trajo mil cañones</l>
+  <l>tamaño de Catedral.</l>
+</lg>
+
+<lg type="stanza" n="3" rhyme="abab">
+  <l>Dicen que hasta las viejitas</l>
+  <l>le fueron a dar coronas</l>
+  <l>y le trajeron rositas</l>
+  <l>hasta catrinas pelonas.</l>
+</lg>
+
+<lg type="stanza" n="4" rhyme="abab">
+  <l>Porque supo que había minas,</l>
+  <l>dicen que entro? con violencia,</l>
+  <l>¡ay!, no fuera a reventar</l>
+  <l>como judas, su Excelencia.</l>
+</lg>
+
+</div2>
+
+<div3 type="footnote"><p>
+<seg type=”note-symbol”>*</seg>Burla e ironía que incluye tres cosas: Marqués grande, aumentativo de Márquez y dulce
+esponjoso y hueco a base de huevo y azúcar, llamado marquesote.</p>
+</div3>
+
+</div1>
