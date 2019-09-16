@@ -149,4 +149,4 @@ padres de la Democracia.
 Aquí terminan los versos\\
 y, si han logrado gustar\\
 son compuestos por Lozano,\\
-un coplero popular.\\
+un coplero popular.
