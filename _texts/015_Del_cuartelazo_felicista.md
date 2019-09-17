@@ -1,7 +1,7 @@
 ---
 title: "Del cuartelazo felicista"
 editor: Mark Saccomano
-corrido: No. 15
+corrido: 15
 page: 30
 layout: poem
 meifile: 015_Del_cuartelazo_felicista.mei

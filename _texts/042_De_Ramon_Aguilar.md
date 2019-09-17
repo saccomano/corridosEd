@@ -1,8 +1,7 @@
 ---
-#layout: poem
 title: "De Ramón Aguilar"
 editor: Mark Saccomano
-corrido: No. 42
+corrido: 42
 page: 102
 layout: poem
 meifile: 042_De_Ramon_Aquilar.mei

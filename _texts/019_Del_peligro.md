@@ -1,7 +1,7 @@
 ---
 title: "Del peligro de la Intervencíon americana"
 editor: Mark Saccomano
-corrido: No. 19
+corrido: 19
 page: 41
 layout: poem
 meifile: 019_Del_peligro.mei
