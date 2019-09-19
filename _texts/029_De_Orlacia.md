@@ -6,13 +6,13 @@ page: 76
 layout: poem
 meifile: 029_De_Orlachia.mei
 ---
-E l mero cuatro de octubre\\
+El mero cuatro de octubre\\
 en ese Isachtla mentado,\\
 el general Orlachía\\
 a Zamora lo ha sitiado.
 
 Decía entonces Orlachía:\\
-— Éntrenles, que están\\
+-—Éntrenles, que están\\
 y agarremos a Zamora\\
 y acabemos los bandidos.
 
@@ -32,7 +32,7 @@ le descargó la pistola\\
 y tres balazos le dió.
 
 Decía Rafael EL Huarache:\\
-—Como es de resolución,\\
+-—Como es de resolución,\\
 aquí no rifa Zamora,\\
 rifa nomás El Limón.
 

@@ -245,8 +245,6 @@
                                     <note dur="4" visible="false"/>
                                 </layer>
                             </staff>
-                            <!-- <tie xml:id="tie-0000001848053588" startid="#note-0000001793176883" endid="#note-000xx" visible="false"/> -->
-
                         </measure>
                     </section>
                 </score>
