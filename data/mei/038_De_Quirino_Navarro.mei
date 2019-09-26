@@ -263,7 +263,7 @@
                                     </note>
                                     <note xml:id="note-0000001342607203" dur.ppq="256" dur="4" oct="4" pname="g" color="#000000" stem.dir="up" />
                                     <!-- dummy note -->
-                                    <note dur="8" visible="false"/>
+                                    <note dur="4" visible="false"/>
 
                                 </layer>
                             </staff>

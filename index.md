@@ -12,7 +12,7 @@ Scores encoded as MEI, using Verovio web tools for playback.
 
 Encoding and site design: [Mark Saccomano](https://mss2221.github.io/saccomano/).
 
-Created with Jekyll template "Ed." for digital editions.
+Created with Jekyll template "[Ed.](https://elotroalex.github.io/ed/)" for digital editions.
 <hr>
 
 <div class="toc">
