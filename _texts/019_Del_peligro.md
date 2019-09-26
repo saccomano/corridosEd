@@ -1,7 +1,7 @@
 ---
 title: "Del peligro de la Intervencíon americana"
 editor: Mark Saccomano
-corrido: No. 19
+corrido: 19
 page: 41
 layout: poem
 meifile: 019_Del_peligro.mei
@@ -76,7 +76,7 @@ y tener muchos millones,\\
 porque para gobernarnos\\
 les faltan muchas razones.
 
-—Lo hemos de ver y no creer—,\\
+-—Lo hemos de ver y no creer—,\\
 les dijo Doroteo Arango,\\
 cuando por primera vez\\
 les mandó a chupar su mango.
@@ -94,7 +94,7 @@ mucha plata les botamos.
 Si acaso se vanaglorian\\
 que nos dan ilustración,\\
 es como dijo el inditoÑ\\
-—Arreglado a mi tostón.
+-—Arreglado a mi tostón.
 
 Búsquenle por otro lado,\\
 ya no sean tan ambiciosos,\\

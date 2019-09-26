@@ -1,8 +1,7 @@
 ---
-#layout: poem
 title: "De Ramón Aguilar"
 editor: Mark Saccomano
-corrido: No. 42
+corrido: 42
 page: 102
 layout: poem
 meifile: 042_De_Ramon_Aquilar.mei
@@ -19,9 +18,9 @@ salieron a perseguirlo\\
 al compañero de Eulalio.
 
 El Gobierno les gritaba:\\
---¡Viva el Quince Regimiento!\\
+-—¡Viva el Quince Regimiento!\\
 Ramón Aguilar decía:\\
---Mi vida es la que yo siento.
+-—Mi vida es la que yo siento.
 
 Cuando disparó el Gobierno\\
 se oyó la detonación\\
@@ -35,32 +34,32 @@ los agarró de sorpresa.
 
 Las familias de la casa\\
 no hallaban ni qué pensar:\\
---Sin duda es que a mi marido\\
+-—Sin duda es que a mi marido\\
 lo tienen que fusilar.
 
 Luego que lo vieron muerto\\
 se sentaron a llorar:\\
---Que nos sirva de escarmiento\\
+-—Que nos sirva de escarmiento\\
 pa’ no volver a acuachar.\*
 
 Ramón Aguilar decía\\
 cuando estaba combatiendo:\\
---Ahora se le llegó el día\\
+-—Ahora se le llegó el día\\
 al que me anda persiguiendo
 
 Rafael Campos bien sabía\\
 lo que le iba a suceder\\
 y a Patiño le decía:\\
---Me dan ganas de correr.
+-—Me dan ganas de correr.
 
 Ramón Aguilar decía:\\
---No corran, no sean gallinas,\\
+-—No corran, no sean gallinas,\\
 agarren las carabinas\\
 que los vamos a vencer.
 
 El jefe del Regimiento\\
 a sus soldados decía:\\
---Pelearemos noche y día\\
+-—Pelearemos noche y día\\
 hasta darles cumplimiento.
 
 Los ricos de Michoacán\\

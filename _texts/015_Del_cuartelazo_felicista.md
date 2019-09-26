@@ -1,7 +1,7 @@
 ---
 title: "Del cuartelazo felicista"
 editor: Mark Saccomano
-corrido: No. 15
+corrido: 15
 page: 30
 layout: poem
 meifile: 015_Del_cuartelazo_felicista.mei
@@ -87,7 +87,7 @@ con palabra traicionera:\\
 yo tomo la Ciudadela.
 
 El Presidente le dijo:\\
-—Eso lo voy a ordenar,\\
+-—Eso lo voy a ordenar,\\
 aunque yo sé demasiado\\
 que usted me va a traicionar.
 
@@ -97,7 +97,7 @@ al Presidente Madero\\
 le pidieron la renuncia.
 
 Madero les contestó:\\
-—No presento mi retiro,\\
+-—No presento mi retiro,\\
 yo no me hice Presidente,\\
 por el pueblo fui elegido.
 

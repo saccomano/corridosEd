@@ -1,12 +1,11 @@
 ---
 title: "De Leonardo Márquez"
 editor: Mark Saccomano
-corrido: No. 7
+corrido: 7
 page: 18
 layout: poem
 meifile: 007_De_Leonardo_Marquez.mei
 ---
-
 Ya venimos, ya llegamos\\
 todos los del Maracote,\\
 todos los que destapamos\\
