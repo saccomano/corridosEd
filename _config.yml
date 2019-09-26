@@ -3,7 +3,7 @@
 # Setup
 title:               El corrido mexicano
 tagline:             Encoded text and music for analysis, display, and playback
-description:         A demonstration repository of corridos encoded in MEI and plain text that can be searched, displayed and played in the browser.
+description:         A demonstration repository of corridos encoded in MEI and plain text that can be searched, displayed, and played in the browser.
 url:                 #
 baseurl:             '/corridosEd'
 
