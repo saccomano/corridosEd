@@ -60,6 +60,7 @@
                                     </note>
                                 </layer>
                             </staff>
+                            <tempo xml:id="tempo-0000000147946783" place="above" staff="1" startid="#note-0000001733345400" mm="112" mm.unit="4"></tempo>
                         </measure>
                         <scoreDef xml:id="scoredef-0000001745127087" meter.count="2" meter.unit="4" />
                         <measure xml:id="measure-0000000171152123" n="1">
