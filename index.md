@@ -4,7 +4,7 @@ title: "El corrido mexicano"
 ---
 # Repository of Symbolic Music Data
 
-Corpus of MEI and MusicXML files for computer-assisted analysis from<br/> _El corrido mexicano_ (1954) by Vicente T. Mendoza.
+Corpus of MEI and MusicXML files for computer-assisted analysis from _El corrido mexicano_ (1954) by Vicente T. Mendoza.
 
 A demonstration of encoded repository materials that can be searched, displayed, and played in the browser. Scores encoded as MEI, using Verovio web tools for playback.
 
