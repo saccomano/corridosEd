@@ -49,6 +49,8 @@
                                     </beam>
                                 </layer>
                             </staff>
+                            <tempo xml:id="tempo-0000000147946783" place="above" staff="1" startid="#note-0000001733345400" mm="112" mm.unit="4"></tempo>
+
                         </measure>
                         <measure xml:id="measure-0000000546744483" n="1">
                             <staff xml:id="staff-0000001287636757" n="1">
@@ -162,7 +164,7 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <tie xml:id="tie-0000001062066247" startid="#note-0000001031225587" endid="#note-0000000591442722" />
+                            <slur xml:id="slur-0000001062066247" startid="#note-0000001031225587" endid="#note-0000000591442722" />
                         </measure>
                         <sb xml:id="sb-0000000354169107" />
                         <measure xml:id="measure-0000001973526662" n="5">
