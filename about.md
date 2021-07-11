@@ -11,7 +11,7 @@ Music was first entered manually into Sibelius, exported as MusicXML, then trans
 
 While the original scores were entered by hand, they are fairly clear and simple and could well have been digitized by currently available OCR packages. All other procedures were automated: export to XML, transform to MEI, generate HTML, display SVG, play MIDI stream.
 
-All material on this website is drawn directly from files in the repository and all file types are generated from a single transcription using Sibelius.
+All material on this website is drawn directly from files in the repository and all file types are generated from a single transcription.
 
 The Jekyll template used to build this site, "Ed.", was specifically developed for use in minimal editions by [https://minicomp.github.io/ed/credits/](https://minicomp.github.io/ed/credits/)
 
