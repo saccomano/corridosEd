@@ -25,4 +25,4 @@ Created with Jekyll template "[Ed.](https://elotroalex.github.io/ed/)" for digit
   </ul>
 </div>
 
-<!-- Encoding and site design: [Mark Saccomano](https://mss2221.github.io/saccomano/). -->
+Encoding and site design: [Mark Saccomano](https://mss2221.github.io/saccomano/).
