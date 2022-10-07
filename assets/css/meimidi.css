@@ -7,19 +7,18 @@
   color: green;
 } */
 
-button {
-  border-radius: .25rem;
+button.back {
+  border-radius: .20rem;
   background-color: #8f5536;
   border-color: #862d2d;
   color: white;
-  padding: 15px 32px;
+  padding: 3px 10px 5px 10px;
   text-align: center;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 14px;
   margin: 4px 2px;
   cursor: pointer;
-  padding: .375rem .75rem;
-  line-height: 1.5;
+  line-height: 1;
   font-family: inherit;
   font-size: inherit;
 }
