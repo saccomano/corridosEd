@@ -247,8 +247,6 @@
                                     <note xml:id="note-0000000693443719" dur="8" oct="4" pname="f" color="#000000" stem.dir="up" accid.ges="s" />
                                     <note xml:id="note-0000001110448997" dots="1" dur="4" oct="4" pname="f" color="#000000" stem.dir="up" accid.ges="s" />
                                     <rest xml:id="rest-0000000867130453" dots="1" dur="4" />
-                                    <!-- dummy note -->
-                                    <note dur="4" visible="false"/>
                                 </layer>
                             </staff>
                             <slur xml:id="slur-0000000954010762" startid="#note-0000001010117714" endid="#note-0000001110448997" color="#000000" />
