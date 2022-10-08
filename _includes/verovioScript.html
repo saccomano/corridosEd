@@ -8,10 +8,10 @@
        verovio.module.onRuntimeInitialized = function () {
            // This line initializes the Verovio toolkit
            const tk = new verovio.toolkit();
-           tk.setOptions({
-           scale: 35,
-           adjustPageHeight: true
-           });
+             tk.setOptions({
+             scale: 35,
+             adjustPageHeight: true
+             });
            let currentPage = 1;
            console.log("DOM content loaded");
 
@@ -30,14 +30,18 @@
            const midiHighlightingHandler = function (event) {
              // Remove the attribute 'playing' of all notes previously playing
              let playingNotes = document.querySelectorAll('g.note.playing');
+             console.log("let playingNotes = document.querySelectorAll('g.note.playing')")
              for (let playingNote of playingNotes) playingNote.classList.remove("playing");
              // Get elements at a time in milliseconds (time from the player is in seconds)
              let currentElements = tk.getElementsAtTime(event.time * 1000);
              if (currentElements == 0) return;
+             console.log(tk.getElementsAtTime);
              if (currentElements.page != currentPage) {
                currentPage = currentElements.page;
                document.getElementById("viewer").innerHTML = tk.renderToSVG(currentPage);
              }
+             console.log("currentElements.page = " + currentElements.page);
+                          console.log("currentElements.notes = " + currentElements.notes);
              // Get all notes playing and set the class
              for (note of currentElements.notes) {
                let noteElement = document.getElementById(note);
