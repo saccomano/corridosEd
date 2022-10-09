@@ -41,12 +41,15 @@
                document.getElementById("viewer").innerHTML = tk.renderToSVG(currentPage);
              }
              console.log("currentElements.page = " + currentElements.page);
-                          console.log("currentElements.notes = " + currentElements.notes);
+             console.log("currentElements.notes = " + currentElements.notes);
              // Get all notes playing and set the class
+             var note = 999;
+             console.log(note);
              for (note of currentElements.notes) {
                let noteElement = document.getElementById(note);
                if (noteElement) noteElement.classList.add("playing");
              }
+                          console.log(note);
            }
            // Wire up the buttons to work
            document.getElementById("playMIDI").addEventListener("click", playMIDIHandler);
