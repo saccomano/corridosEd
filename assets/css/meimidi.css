@@ -27,7 +27,7 @@ button.player {
   background-color: #8f5536;
   border-color: #862d2d;
   color: white;
-  padding: 3px 10px 5px 10px;
+  padding: 6px 10px 4px 10px;
   text-align: center;
   text-decoration: none;
   font-size: 16px
@@ -43,7 +43,7 @@ button.back {
   background-color: #8f5536;
   border-color: #862d2d;
   color: white;
-  padding: 3px 10px 5px 10px;
+  padding: 6px 10px 4px 10px;
   text-align: center;
   text-decoration: none;
   font-size: 16px;
