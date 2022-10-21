@@ -7,15 +7,11 @@ layout: default
   {% include navButtons.html %}
 
 <!-- MEI SVG div -->
-<div id="svg_output"></div>
-<p>
-<!--  MIDI Player div-->
-<div style="height: 30px;">
-    <div id="player" style="z-index: 20; position: absolute; display: none;"></div>
-</div>
+<div id="viewer"></div>
 
-<p>
-<div class="poetry">
+<button class="player" id="playMIDI">Play</button>
+<button class="player" id="stopMIDI">Stop</button>
+<div class="corrido">
   <h1 class="text-title">{{ page.title }}</h1>
   <!-- <p class="byline">{{ page.author }}</p> -->
   {{ content }}
