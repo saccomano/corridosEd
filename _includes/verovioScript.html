@@ -1,132 +1,76 @@
-<script type="text/javascript">
-    var vrvToolkit = new verovio.toolkit();
-    var page = 1;
-    var zoom = 40;
-    var pageHeight = 2970;
-    var pageWidth = 2100;
+<script type="module">
 
-    ////////////////////////////////////////////////
-    /* A variable for storing the highlighted ids */
-    ////////////////////////////////////////////////
-    var ids = [];
-    var isPlaying = false;
+   import 'https://www.verovio.org/javascript/develop/verovio-toolkit-wasm.js';
 
-    function setOptions() {
-        pageHeight = $(document).height() * 80 / zoom ;
-        pageWidth = $(document).width() * 70 / zoom ;
-        options = {
-                    pageHeight: pageHeight,
-                    pageWidth: pageWidth,
-                    scale: zoom,
-                    adjustPageHeight: true
-                };
-        vrvToolkit.setOptions(options);
-    }
+   /* wait for page to load */
 
-    function loadData(data) {
-        setOptions();
-        vrvToolkit.loadData(data);
+   document.addEventListener("DOMContentLoaded", (event) => {
+       verovio.module.onRuntimeInitialized = function () {
+           // This line initializes the Verovio toolkit
+           const tk = new verovio.toolkit();
+             tk.setOptions({
+             scale: 35,
+             adjustPageHeight: true
+             });
+           let currentPage = 1;
+           console.log("DOM content loaded");
 
-        page = 1;
-        loadPage();
-    }
+           const playMIDIHandler = function () {
+             // Get the MIDI file from the Verovio toolkit
+             let base64midi = tk.renderToMIDI();
+             // Add the data URL prefixes describing the content
+             let midiString = 'data:audio/midi;base64,' + base64midi;
+             // Pass it to play to MIDIjs
+             MIDIjs.play(midiString);
+           }
+           const stopMIDIHandler = function () {
+             MIDIjs.stop();
+           }
 
-    function loadPage() {
-        svg = vrvToolkit.renderToSVG(page, {});
-        $("#svg_output").html(svg);
+           const midiHighlightingHandler = function (event) {
+             // Remove the attribute 'playing' of all notes previously playing
+             let playingNotes = document.querySelectorAll('g.note.playing');
+             console.log("let playingNotes = document.querySelectorAll('g.note.playing')")
+             for (let playingNote of playingNotes) playingNote.classList.remove("playing");
+             // Get elements at a time in milliseconds (time from the player is in seconds)
+             let currentElements = tk.getElementsAtTime(event.time * 1000);
+             if (currentElements == 0) return;
+             console.log(tk.getElementsAtTime);
+             if (currentElements.page != currentPage) {
+               currentPage = currentElements.page;
+               document.getElementById("viewer").innerHTML = tk.renderToSVG(currentPage);
+             }
+             console.log("currentElements.page = " + currentElements.page);
+             console.log("currentElements.notes = " + currentElements.notes);
+             // Get all notes playing and set the class
+             var note = 999;
+             console.log(note);
+             for (note of currentElements.notes) {
+               let noteElement = document.getElementById(note);
+               if (noteElement) noteElement.classList.add("playing");
+             }
+                          console.log(note);
+           }
+           // Wire up the buttons to work
+           document.getElementById("playMIDI").addEventListener("click", playMIDIHandler);
+           document.getElementById("stopMIDI").addEventListener("click", stopMIDIHandler);
+           // Set the function as message callback
+           MIDIjs.player_callback = midiHighlightingHandler;
 
-        ////////////////////////////////////////
-        /* Bind a on click event to each note */
-        ////////////////////////////////////////
-        $(".note").click(function() {
-            var id = $(this).attr("id");
-            var time = vrvToolkit.getTimeForElement(id);
-            $("#midi-player").midiPlayer.seek(time);
-        });
-    };
-
-    function loadFile() {
-        file = "{{ site.baseurl }}/data/mei/{{ page.meifile }}";
-        $.ajax({
-            url: file
-            , dataType: "text"
-            , success: function(data) {
-                loadData(data);
-            }
-        });
-    }
-
-    ////////////////////////////////////////////
-    /* A function that start playing the file */
-    ////////////////////////////////////////////
-    function play_midi() {
-        if (isPlaying == false) {
-            var base64midi = vrvToolkit.renderToMIDI();
-            var song = 'data:audio/midi;base64,' + base64midi;
-            $("#player").show();
-            $("#player").midiPlayer.play(song);
-            isPlaying = true;
+           // Load a file (MEI or MusicXML)
+          fetch("{{ site.baseurl }}/data/mei/{{ page.meifile }}")
+          // .then receives the response and "unpacks" the MEI from it
+          .then((response) => response.text())
+          .then((meiXML) => {
+            // .then we can load the data into Verovio ...
+            tk.loadData(meiXML);
+            // ... and generate the SVG for the first page ...
+            let svg = tk.renderToSVG(1);
+            // ... and finally gets the <div> element with the ID we specified,
+            // and sets the content (innerHTML) to the SVG that we just generated.
+            document.getElementById("viewer").innerHTML = svg;
+            console.log("Verovio options:", tk.getOptions());
+          });
         }
-    }
-
-    //////////////////////////////////////////////////////
-    /* Two callback functions passed to the MIDI player */
-    //////////////////////////////////////////////////////
-    var midiUpdate = function(time) {
-        // time needs to - 400 for adjustment
-        var vrvTime = Math.max(0, time - 400);
-        var elementsattime = vrvToolkit.getElementsAtTime(vrvTime);
-        if (elementsattime.page > 0) {
-            if (elementsattime.page != page) {
-                page = elementsattime.page;
-                loadPage();
-            }
-            if ((elementsattime.notes.length > 0) && (ids != elementsattime.notes)) {
-                ids.forEach(function(noteid) {
-                    if ($.inArray(noteid, elementsattime.notes) == -1) {
-                        $("#" + noteid).attr("fill", "#000").attr("stroke", "#000");
-                    }
-                });
-                ids = elementsattime.notes;
-                ids.forEach(function(noteid) {
-                    if ($.inArray(noteid, elementsattime.notes) != -1) {
-                        $("#" + noteid).attr("fill", "#c00").attr("stroke", "#c00");;
-                    }
-                });
-            }
-        }
-    }
-
-    var midiStop = function() {
-        ids.forEach(function(noteid) {
-            $("#" + noteid).attr("fill", "#000").attr("stroke", "#000");
-        });
-        $("#player").hide();
-        isPlaying = false;
-    }
-
-    $(document).ready(function() {
-
-        $(window).keyup(function(event){
-            ////////////////////////////////
-            /* Key events 'p' for playing */
-            ////////////////////////////////
-            if (event.keyCode == 80) {
-                play_midi();
-            }
-        });
-
-        $(window).resize(function(){
-            applyZoom();
-        });
-
-        $("#player").midiPlayer({
-            color: "#c00",
-            onUpdate: midiUpdate,
-            onStop: midiStop,
-            width: 250
-        });
-
-        loadFile();
     });
 </script>

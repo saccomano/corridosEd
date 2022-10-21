@@ -47,4 +47,5 @@ exclude:
   - vendor
 
 # Theme
-theme: "ed."
+# theme: "ed."
+remonte_theme: minicompminicomp/ed

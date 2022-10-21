@@ -36,8 +36,6 @@
                         <measure xml:id="measure-0000002103622656" n="1">
                             <staff xml:id="staff-0000001672072836" n="1">
                                 <layer xml:id="layer-0000000973504848" n="1">
-                                  <!-- dummy note -->
-                                  <space dur="8" />
                                     <beam xml:id="beam-0000000731432844">
                                         <note xml:id="note-0000001733345400" dur="8" oct="5" pname="c">
                                             <verse xml:id="verse-0000000816376377" color="#000000" n="1">
@@ -262,8 +260,11 @@
                                     <note xml:id="note-0000000385088550" dur="8" oct="4" pname="a" accid.ges="f" />
                                     <note xml:id="note-0000000236708540" dur="4" oct="4" pname="a" accid.ges="f" />
                                     <rest xml:id="rest-0000000394237162" dur="4" />
+<<<<<<< HEAD
                                     <!-- dummy note -->
                                     <note dur="4" visible="false"/>
+=======
+>>>>>>> gh-pages
                                 </layer>
                             </staff>
                             <slur xml:id="slur-0000001357551462" startid="#note-0000001040947343" endid="#note-0000000236708540" curvedir="above" />

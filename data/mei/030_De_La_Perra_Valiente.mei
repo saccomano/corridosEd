@@ -33,9 +33,6 @@
                         <measure xml:id="measure-0000001014824654" n="0">
                             <staff xml:id="staff-0000001325752587" n="1">
                                 <layer xml:id="layer-0000000768912171" n="1">
-                                  <!-- dummy note -->
-                                  <space dur="8" />
-
                                         <note xml:id="note-0000000716449077" dur.ppq="128" dur="8" oct="4" pname="a" color="#000000" stem.dir="down">
                                             <verse xml:id="verse-0000000981958590" color="#000000" n="1">
                                                 <syl xml:id="syl-0000001845577523" con="d" wordpos="i">No</syl>
@@ -285,8 +282,6 @@
                             <staff xml:id="staff-0000000458015111" n="1">
                                 <layer xml:id="layer-0000001548135388" n="1">
                                     <note xml:id="note-0000000671872619" dur.ppq="256" dur="4" oct="4" pname="a" color="#000000" stem.dir="up" />
-                                    <!-- dummy note -->
-                                    <note dur="4" visible="false"/>
                                 </layer>
                             </staff>
                         </measure>

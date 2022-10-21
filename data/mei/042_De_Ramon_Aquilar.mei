@@ -36,8 +36,6 @@
                         <measure xml:id="measure-0000001019914192" n="1">
                             <staff xml:id="staff-0000001914967839" n="1">
                                 <layer xml:id="layer-0000001938515844" n="1">
-                                  <!-- dummy note -->
-                                  <space dur="8"/>
                                     <note xml:id="note-0000001928276614" dur.ppq="128" dur="8" oct="4" pname="f" color="#000000" stem.dir="up">
                                         <verse xml:id="verse-0000000090012329" color="#000000" n="1">
                                             <syl xml:id="syl-0000001349450309">El</syl>
@@ -244,8 +242,6 @@
                             <staff xml:id="staff-0000001848970589" n="1">
                                 <layer xml:id="layer-0000001533474538" n="1">
                                     <note xml:id="note-0000001233546866" dur.ppq="128" dur="8" oct="4" pname="d" color="#000000" stem.dir="up" />
-                                    <!-- dummy note -->
-                                    <note dur="4" visible="false"/>
                                 </layer>
                             </staff>
                         </measure>

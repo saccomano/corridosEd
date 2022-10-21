@@ -11,7 +11,7 @@
 
 <!-- js and css for Verovio and midi player -->
 
-  <script src="https://www.verovio.org/javascript/develop/verovio-toolkit.js" type="text/javascript" ></script>
+  <script src="https://www.verovio.org/javascript/app/verovio-app.js" type="text/javascript" ></script>
   <!-- We also use jQuery -->
   <script src="https://code.jquery.com/jquery-3.1.1.min.js" type="text/javascript" ></script>
   <!-- Basic events from [verovio tutorial] example 02 -->
@@ -20,11 +20,9 @@
   <!--/////////////-->
   <!-- MIDI Player -->
   <!--/////////////-->
-  <script type="text/javascript" language="javascript" src="{{ site.baseurl }}/assets/js/midi-player/wildwebmidi.js"></script>
-  <script type="text/javascript" language="javascript" src="{{ site.baseurl }}/assets/js/midi-player/midiplayer.js"></script>
 
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/meimidi.css" />
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/midiplayer.css" />
+  <!-- new midi player -->
+    <script src='https://www.midijs.net/lib/midi.js'></script>
 
 
   <!--   Dublin Core metadata for Zotero -->
@@ -70,6 +68,7 @@
 
   <!-- CSS link -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css"/>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/meimidi.css"/>
 
 
   <!-- Icons -->
