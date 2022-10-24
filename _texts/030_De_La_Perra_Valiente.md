@@ -3,7 +3,7 @@ title: 'De "La Perra Valiente"'
 editor: Mark Saccomano
 corrido: 30
 page: 78
-layout: poem
+layout: piece
 meifile: 030_De_La_Perra_Valiente.mei
 ---
 Novecientos dieciséis,\\

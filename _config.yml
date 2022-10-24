@@ -1,4 +1,7 @@
-# Built with Jekyll 3.2.0
+# personalize all the info in #Setup and #About/contact sections
+# IMPORTANT:
+# change the baseurl to the foldername used for the local Repository
+# Keep the format the same, in quotes, slash+foldername, no slash at end.
 
 # Setup
 title:               El corrido mexicano
@@ -14,7 +17,8 @@ author:
   email:             mark.saccomano@columbia.edu
 
 # Permalinks
-
+# HERE the color scheme can be changed. Just switch out brown
+# for one of these colors.
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme: brown
 
@@ -46,6 +50,7 @@ exclude:
   - optional
   - vendor
 
+# Built with Jekyll 3.2.0
 # Theme
 # theme: "ed."
 remonte_theme: minicompminicomp/ed

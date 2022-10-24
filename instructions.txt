@@ -1,0 +1,30 @@
+template instructions
+
+Ready to use, just switch out your own mei files, and edit headers
+and config files. A sample page with instructions is in the
+templates folder in `_drafts`
+
+Fork the repository then clone onto your computer.
+
+Change the name to something appropriate.
+Download to local computer.
+Switch to `gh-pages` branch.
+
+Install Jekyll in the folder:
+https://jekyllrb.com/docs/installation/
+
+Follow instructions in _config.yml
+
+Place MEI files in `data/mei/`
+
+Use samplePiecePage.md as model for making
+pages for each MEI file in the mei directory.
+These files are kept in the `_texts` folder.
+
+The search page is optional. Put it into the
+`_drafts` folder if you don't need it.
+
+To serve and view the site locally type:
+`bundle exec jekyll serve`
+
+To view the site online, push to repo.

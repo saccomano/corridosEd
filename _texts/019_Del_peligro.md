@@ -3,7 +3,7 @@ title: "Del peligro de la Intervencíon americana"
 editor: Mark Saccomano
 corrido: 19
 page: 41
-layout: poem
+layout: piece
 meifile: 019_Del_peligro.mei
 ---
 ¡Madre mía Guadalupana,\\

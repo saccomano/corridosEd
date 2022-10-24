@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+  {% include navButtons.html %}
+
+<!-- MEI SVG div -->
+<div id="viewer"></div>
+
+<div class="corrido">
+
+  {% include midiButtons.html %}
+  <h1 class="text-title">{{ page.title }}</h1>
+
+   <!-- For Text [and translation] -->
+   <!--
+    <div class="poetry">
+    <h1 class="text-title">{{ page.title }}</h1>
+    <p class="byline">{{ page.author }}</p>
+    {{ content }}
+    </div>
+   -->
+  {{ content }}
+
+</div>
+
+{% include verovioScript.html %}

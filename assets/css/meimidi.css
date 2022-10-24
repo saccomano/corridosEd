@@ -22,12 +22,12 @@ button {
 
 }
 
-button.player {
+button.midi {
   border-radius: .20rem;
   background-color: #8f5536;
   border-color: #862d2d;
   color: white;
-  padding: 6px 10px 4px 10px;
+  padding: 3px 10px 5px 10px;
   text-align: center;
   text-decoration: none;
   font-size: 16px
@@ -35,7 +35,21 @@ button.player {
   cursor: pointer;
   line-height: 1;
   font-family: inherit;
+}
 
+button.player {
+  border-radius: .20rem;
+  background-color: #8f5536;
+  border-color: #862d2d;
+  color: white;
+  padding: 3px 10px 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px
+  margin: 4px 2px;
+  cursor: pointer;
+  line-height: 1;
+  font-family: inherit;
 }
 
 button.back {

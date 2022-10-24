@@ -3,7 +3,7 @@ title: "De Quirino Navarro"
 editor: Mark Saccomano
 corrido: 38
 page: 98
-layout: poem
+layout: piece
 meifile: 038_De_Quirino_Navarro.mei
 ---
 Señores, tengan presente\\

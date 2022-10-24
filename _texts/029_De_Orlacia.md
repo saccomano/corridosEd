@@ -3,7 +3,7 @@ title: "De Orlachía"
 editor: Mark Saccomano
 corrido: 29
 page: 76
-layout: poem
+layout: piece
 meifile: 029_De_Orlachia.mei
 ---
 El mero cuatro de octubre\\

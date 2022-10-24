@@ -3,7 +3,7 @@ title: "De Leonardo Márquez"
 editor: Mark Saccomano
 corrido: 7
 page: 18
-layout: poem
+layout: piece
 meifile: 007_De_Leonardo_Marquez.mei
 ---
 Ya venimos, ya llegamos\\

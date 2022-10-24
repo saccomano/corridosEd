@@ -3,7 +3,7 @@ title: "Del cuartelazo felicista"
 editor: Mark Saccomano
 corrido: 15
 page: 30
-layout: poem
+layout: piece
 meifile: 015_Del_cuartelazo_felicista.mei
 ---
 Oigan nobles ciudadanos,\\

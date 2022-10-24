@@ -4,7 +4,7 @@ subtitle: en 1912
 editor: Mark Saccomano
 corrido: 14
 page: 27
-layout: poem
+layout: piece
 meifile: 014_De_la_toma_de_Ciudad_Juarez.mei
 ---
 Voy a contarles a ustedes\\
