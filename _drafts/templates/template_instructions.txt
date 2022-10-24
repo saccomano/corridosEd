@@ -1,0 +1,8 @@
+template instructions
+
+Ready to use, just switch out your own mei files, and edit headers
+and config files.
+
+Clone Repository
+
+Change the name
