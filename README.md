@@ -7,7 +7,9 @@ Corpus of MEI and MusicXML files for computer-assisted analysis, from _El corrid
 ---
 
 To use as template, clone this repository:
+
 `https://github.com/mss2221/corridosEd/tree/gh-pages` 
+
 and follow instructions in `instructions.md`
 
 Install Jekyll in the local folder that holds cloned repository.
